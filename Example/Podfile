@@ -1,0 +1,7 @@
+use_frameworks!
+target 'FBMessengerTimeAgo_Tests' do
+  pod 'FBMessengerTimeAgo', :path => '../'
+  
+  pod 'Quick', '~> 0.8'
+  pod 'Nimble', '~> 3.0'
+end
