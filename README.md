@@ -20,9 +20,11 @@ it, simply add the following line to your Podfile:
 pod "FBMessengerTimeAgo"
 ```
 
-## Author
+## Communication
 
-Royce Dy, rady182@me.com
+- If you **found a bug**, open an issue.
+- If you **have a feature request**, open an issue.
+- If you **want to contribute**, submit a pull request.
 
 ## License
 
