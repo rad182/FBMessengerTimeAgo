@@ -1,6 +1,5 @@
 # FBMessengerTimeAgo
 
-[![CI Status](http://img.shields.io/travis/rad182/FBMessengerTimeAgo.svg?style=flat)](https://travis-ci.org/rad182/FBMessengerTimeAgo)
 [![Version](https://img.shields.io/cocoapods/v/FBMessengerTimeAgo.svg?style=flat)](http://cocoapods.org/pods/FBMessengerTimeAgo)
 [![License](https://img.shields.io/cocoapods/l/FBMessengerTimeAgo.svg?style=flat)](http://cocoapods.org/pods/FBMessengerTimeAgo)
 [![Platform](https://img.shields.io/cocoapods/p/FBMessengerTimeAgo.svg?style=flat)](http://cocoapods.org/pods/FBMessengerTimeAgo)
