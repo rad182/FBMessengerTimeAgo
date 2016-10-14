@@ -23,6 +23,23 @@ it, simply add the following line to your Podfile:
 pod "FBMessengerTimeAgo"
 ```
 
+## Date Formats
+```
+Same day = "8:00 pm" // date time
+<= 6 days = "Fri" // day
+> 7 days and same year = "Oct 14" // month and day
+> 1 year = "10/14/2015" // short date
+```
+## Usage
+Import module
+```swift
+import FBMessengerTimeAgo
+```
+Call formattedTimeAgo() where date is a past date from now
+```swift
+date.formattedTimeAgo()
+```
+
 ## Communication
 
 - If you **found a bug**, open an issue.
