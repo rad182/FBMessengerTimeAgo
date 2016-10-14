@@ -11,6 +11,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
++ Swift 2.3
++ iOS 8.0+
+
 ## Installation
 
 FBMessengerTimeAgo is available through [CocoaPods](http://cocoapods.org). To install
