@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FBMessengerTimeAgo'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Facebook Messenger time ago style format'
   s.homepage         = 'https://github.com/rad182/FBMessengerTimeAgo'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
